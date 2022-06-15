@@ -4,7 +4,7 @@ import './ButtonState.css';
 const ButtonState = () => {
   const [text, setText] = useState('Click me!');
   return (
-      <button className="primary" onClick={() => setText('Thank you!')}>{text}</button>
+    <button className="primary" onClick={() => setText('Thank you!')}>{text}</button>
   );
 };
 

@@ -1,4 +1,6 @@
 .primary {
+    margin-left: 5px;
+
     background-color: #4CAF50; /* Green */
     border: none;
     color: white;

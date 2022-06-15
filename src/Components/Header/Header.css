@@ -24,7 +24,7 @@
 
     font-weight: 700;
     font-size: 2.3rem;
-    color: #6e6464;
+    color: #265657;
     font-family: "DOCKER THREE", serif;
 
     display: flex;
@@ -50,6 +50,8 @@ ul {
 
     font-size: 1.2rem;
     font-weight: 700;
+    color: white;
+    text-shadow: 1px 3px black;
 }
 
 li {
@@ -70,4 +72,6 @@ li:hover {
     cursor: pointer;
     background-color: #054a4b;
     color: #fff;
+
+    transform: translate(-3px, -3px);
 }
