@@ -77,3 +77,10 @@ li:hover {
 
     transform: translate(-3px, -3px);
 }
+
+@media (max-width: 1600px)  {
+    .list_menu {
+        width: 60%;
+        height: 100%;
+    }
+}

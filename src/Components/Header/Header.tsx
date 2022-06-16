@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <div className="header">
       <div className="navigation">
-        <span className="logo">REACT-APP.TSX</span>
+        <span className="logo">USERS-APP</span>
 
         <ul className="list_menu">
           <li>Main</li>
