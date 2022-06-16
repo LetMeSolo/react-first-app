@@ -5,13 +5,13 @@ const Header = () => {
   return (
     <div className="header">
       <div className="navigation">
-        <p className="logo">REACT-APP.TSX</p>
+        <span className="logo">REACT-APP.TSX</span>
 
         <ul className="list_menu">
-          <li>Пункт 1</li>
-          <li>Пункт 2</li>
-          <li>Пункт 3</li>
-          <li>Пункт 4</li>
+          <li>Main</li>
+          <li>About Us</li>
+          <li>Contacts</li>
+          <li>FAQs</li>
         </ul>
       </div>
     </div>

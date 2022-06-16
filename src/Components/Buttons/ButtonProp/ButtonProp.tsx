@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 const ButtonProp = (props: any) => {
   return (
-    <button className="primary">{props.text}</button>
+    <button type="button" className="btn btn-success">{props.text}</button>
   );
 };
 
